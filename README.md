@@ -1,0 +1,1 @@
+The Hex Game this game here is to help train you on being able to guess hex colors. This was built using react and is a great project for those who are trying to learn react. I also implemented tailwind in this project for my styling 
